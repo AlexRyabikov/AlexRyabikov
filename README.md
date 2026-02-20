@@ -1,16 +1,48 @@
-## Hi there 👋
+# Alex Ryabikov
 
-<!--
-**AlexRyabikov/AlexRyabikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Builder CTO | Crypto Infrastructure & AdTech  
+🔧 Distributed systems • Async processing • High-load backend • Microservices  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I’m a hands-on CTO building and scaling crypto and adtech products in resource-constrained startup environments.
+
+I specialize in:
+
+- Designing distributed and event-driven systems  
+- Architecting high-load backend services  
+- Scaling engineering teams (1 → 14+)  
+- Balancing delivery speed with long-term architectural sustainability  
+
+---
+
+## Selected Engineering Patterns & Reference Implementations
+
+🔹 Event-driven order processing (Kafka-based pipeline)  
+🔹 Async media processing with Celery & Redis  
+🔹 Blockchain node orchestration with Terraform  
+🔹 Redis-based cold storage architecture  
+
+(See pinned repositories below 👇)
+
+---
+
+## Tech Focus
+
+Backend: Python, Go, Node.js  
+Infrastructure: Docker, CI/CD, Terraform  
+Messaging: Kafka, RabbitMQ  
+Blockchain: TRON, TON, Solidity  
+Observability: Prometheus, Grafana, ELK  
+
+---
+
+## Open To
+
+Early-stage crypto / fintech / adtech projects where I can take ownership of architecture and engineering direction.
+
+---
+
+📩 Feel free to connect via [LinkedIn](https://www.linkedin.com/in/alexryabikov/)
